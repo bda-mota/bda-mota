@@ -7,11 +7,11 @@ Olá, eu sou a Beatriz, uma entusiasta da tecnologia com 22 anos de idade e uma 
 - 👩‍🎓 Formada em Biomedicina
 - 🚀 Atualmente cursando Desenvolvimento de Software na Instituto 42 São Paulo
 - 💻 Aprendendo e desenvolvendo projetos em C
-- 🌟 Explorando o universo do JavaScript por conta própria
+- 🌟 Explorando o universo do Java por conta própria
 
 ## 📚 O Que Estou Aprendendo Atualmente
 
-Atualmente, meu foco principal é a linguagem C, onde tenho desenvolvido projetos desafiadores que contribuem para meu crescimento como desenvolvedora. Além disso, estou mergulhando em JavaScript, explorando suas funcionalidades e aplicando esse conhecimento em projetos paralelos.
+Atualmente, meu foco principal é a linguagem C, onde tenho desenvolvido projetos desafiadores que contribuem para meu crescimento como desenvolvedora. Além disso, estou mergulhando em Java, explorando suas funcionalidades e aplicando esse conhecimento em projetos paralelos.
 
 ## 🤝 Conecte-se Comigo
 
