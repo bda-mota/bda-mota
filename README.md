@@ -15,8 +15,8 @@ Atualmente, meu foco principal é a linguagem C, onde tenho desenvolvido projeto
 
 ## 🤝 Conecte-se Comigo
 
-[Linkedin](https://www.linkedin.com/in/beatriz-mota-5b2a0a163/)
-<button onclick="window.location.href='URL'">Linkedin</button>
+<a href="https://www.linkedin.com/in/beatriz-mota-5b2a0a163/" style="background-color: #4CAF50; color: white; padding: 12px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 4px; border: none; font-size: 16px;">Texto do Botão</a>
+
 
 - [LinkedIn] https://www.linkedin.com/in/beatriz-mota-5b2a0a163/
 - [GitHub] github.com/bda-mota
