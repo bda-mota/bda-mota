@@ -15,6 +15,9 @@ Atualmente, meu foco principal é a linguagem C, onde tenho desenvolvido projeto
 
 ## 🤝 Conecte-se Comigo
 
+[Linkedin](https://www.linkedin.com/in/beatriz-mota-5b2a0a163/)
+<button onclick="window.location.href='URL'">Linkedin</button>
+
 - [LinkedIn] https://www.linkedin.com/in/beatriz-mota-5b2a0a163/
 - [GitHub] github.com/bda-mota
 
