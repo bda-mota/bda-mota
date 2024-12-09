@@ -1,6 +1,6 @@
 # Bem-vindo ao Meu Mundo Tech! 👋
 
-Olá, eu sou a Beatriz, uma entusiasta da tecnologia com 22 anos de idade e uma formação em Biomedicina. Atualmente, estou trilhando um novo caminho e embarcando em uma jornada emocionante de aprendizado no campo do desenvolvimento de software no Instituto 42 São Paulo.
+Olá, eu sou a Beatriz.
 
 ## 🤝 Conecte-se Comigo
 [![Linkedin Status](https://img.shields.io/badge/LinkedIn-Beatriz%20Mota-red)](https://www.linkedin.com/in/beatriz-mota-5b2a0a163/)
